@@ -100,8 +100,6 @@ Example command:
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
-## 👥 Authors <a name="authors"></a>
 👤 **IKONDE NEKEMIAH ARNOLD**
 
 - GitHub: [@githubhandle](https://github.com/arnoldnekemiah/)
