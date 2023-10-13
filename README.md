@@ -22,7 +22,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [TDD-PROJECT ] <a name="about-project"></a>
+# 📖 [TDD--PROJECT ] <a name="about-project"></a>
 
 **[TDD PROJECT ]** Practicing test-driven development (TDD) with ruby classes and methods .
 
